@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardSubEncoder", "HardSubEncoder\HardSubEncoder.csproj", "{F5854AB8-7C05-4E7E-B468-B3B1A25D75BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5854AB8-7C05-4E7E-B468-B3B1A25D75BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5854AB8-7C05-4E7E-B468-B3B1A25D75BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5854AB8-7C05-4E7E-B468-B3B1A25D75BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5854AB8-7C05-4E7E-B468-B3B1A25D75BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
